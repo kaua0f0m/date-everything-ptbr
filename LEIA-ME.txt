@@ -1,0 +1,39 @@
+DATE EVERYTHING! - TRADUÇÃO PT-BR  v0.1.0 (primeira passada)
+==============================================================
+Tradução de fãs, sem fins lucrativos e sem vínculo com a Sassy Chap Games ou a
+Team17, feita por IA (Codex, da OpenAI) com curadoria do criador.
+Você precisa ter o Date Everything! original na Steam.
+Este pacote NÃO contém arquivos do jogo: ele altera a sua cópia local.
+
+COMO INSTALAR
+  1. Feche o jogo.
+  2. Dê dois cliques em Instalar-DateEverything-PTBR.exe
+  3. Digite 1 (Instalar) e Enter. Leva alguns minutos.
+  4. Abra o jogo pela Steam.
+
+  Se o Windows mostrar "O Windows protegeu o computador", clique em
+  "Mais informações" e depois em "Executar assim mesmo". O programa não é
+  assinado digitalmente; alguns antivírus o marcam por engano.
+
+COMO DESINSTALAR
+  Rode o instalador de novo e digite 2 (Restaurar), ou use na Steam:
+  Propriedades > Arquivos instalados > Verificar integridade.
+
+VERSÃO DO JOGO
+  Feita para a build 23889775 da Steam. O instalador confere cada arquivo e não
+  altera nada se a versão for outra. Os originais ficam em
+  "_PTBR_Backup" dentro da pasta do jogo (cerca de 560 MB).
+
+PROBLEMAS CONHECIDOS
+  - Primeira passada: trocadilhos difíceis e concordâncias ainda serão revisados.
+  - A aparência em jogo ainda não foi conferida em todas as telas.
+  - Algumas marcas fictícias (Roomers, Thiscord, Date-a-Dex) e nomes de músicas
+    ficaram no original de propósito.
+
+CRÉDITOS
+  Criador e curadoria: kaua0f0m
+  Tradução: Codex (OpenAI)
+  Jogo original: Sassy Chap Games / Team17
+
+Licença da tradução: CC BY-NC 4.0. Código do instalador: MIT.
+Código-fonte e suporte: https://github.com/kaua0f0m/date-everything-ptbr
