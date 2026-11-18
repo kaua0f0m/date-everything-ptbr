@@ -12,8 +12,6 @@ Tradução para português do Brasil do jogo **Date Everything!** (Sassy Chap Ga
 - **Acentos funcionando:** as fontes do jogo receberam os caracteres acentuados que faltavam.
 - **Imagens redesenhadas:** ficha de candidatura, botões do menu principal e os selos de status **Amor**, **Amizade** e **Ódio**.
 
-A **segunda passada** (revisão dos trocadilhos difíceis e das concordâncias de gênero) ainda não foi feita. A aparência em jogo ainda não foi conferida tela por tela. Encontrou algo estranho? Abra uma *issue* com um print.
-
 ## Instalação (Windows)
 
 1. Baixe o `DateEverything-PTBR-vX.Y.Z.zip` na aba **Releases** e extraia.
