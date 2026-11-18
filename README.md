@@ -58,6 +58,7 @@ Os originais ficam em `_PTBR_Backup/build-23889775-original` dentro da pasta do 
 
 - Criador e curadoria: kaua0f0m
 - Tradução: Codex (OpenAI)
+- Ajuda final no instalador e aplicação das imagens: Claude Code (Anthropic)
 - Selo "Amor": letreiro na fonte [Lobster](https://github.com/google/fonts/tree/main/ofl/lobster) (SIL Open Font License)
 - Jogo original: Sassy Chap Games, publicado pela Team17
 
