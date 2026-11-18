@@ -2,7 +2,7 @@
 
 Tradução para português do Brasil do jogo **Date Everything!** (Sassy Chap Games / Team17, Steam).
 
-> Tradução de fãs, sem fins lucrativos e sem vínculo com a Sassy Chap Games ou a Team17, **feita por IA (Codex, da OpenAI) com curadoria do criador** nos nomes, no tom e nas imagens. Você precisa ter o jogo original na Steam; o instalador **não contém nem distribui nenhum arquivo do jogo**, ele altera a sua cópia local. O jogo tem humor adulto, palavrões e duplos sentidos, e a tradução não suaviza nada disso.
+> Tradução de fãs, sem fins lucrativos e sem vínculo com a Sassy Chap Games ou a Team17, **feita por IA (Codex, da OpenAI) com curadoria do criador** nos nomes, no tom e nas imagens. Você precisa ter o jogo original na Steam; o instalador **não contém nem distribui nenhum arquivo do jogo**, ele altera a sua cópia local. O jogo não é recomendado para menores de 14 anos - ele tem humor adulto, palavrões e duplos sentidos, e a tradução não suaviza nada disso.
 
 ## Estado: primeira passada (v0.1.0)
 
